@@ -114,6 +114,6 @@ To explore the project locally:
 1. **Clone the repository**:
 
    ```
-   git clone https://github.com/yourusername/i94-traffic-analysis.git
-   cd i94-traffic-analysis
+   git clone https://github.com/shree131/Heavy-Traffic-Indicators-Analysis.git
+   cd Heavy-Traffic-Indicators-Analysis
    ```
