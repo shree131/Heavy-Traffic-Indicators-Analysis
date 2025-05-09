@@ -2,9 +2,7 @@
 
 This project analyzes hourly traffic data collected between 2012 and 2018 along the westbound I-94 corridor near Minneapolis-St. Paul. By uncovering the factors that contribute to high traffic volume, this project aims to support better planning, safety, and efficiency on this critical highway.
 
----
-
-## 📌 Table of Contents
+## 📑 Table of Contents
 
 1. [Introduction](#introduction)
 2. [Objective](#objective)
@@ -20,30 +18,25 @@ This project analyzes hourly traffic data collected between 2012 and 2018 along 
 9. [Future Directions](#future-directions)
 10. [How to Run](#how-to-run)
 
----
-
-## 🛣️ Introduction
+## Introduction
 
 Interstate 94 (I-94) is a major transportation artery through the American Midwest, stretching 1,585 miles from Billings, Montana, to Port Huron, Michigan. The stretch between Minneapolis and St. Paul is particularly known for its heavy traffic.
 
----
 
-## 🎯 Objective
+## Objective
 
 To identify key factors that influence high traffic volume on westbound I-94 using data from 2012 to 2018. This includes analyzing time-of-day trends, weather conditions, and holiday impacts on traffic patterns.
 
----
 
-## 👥 Stakeholders
+## Stakeholders
 
 - **Transportation agencies** – to implement data-driven traffic mitigation strategies.
 - **Urban planners** – to optimize future infrastructure design.
 - **Logistics companies** – to streamline delivery routes.
 - **Commuters** – to better anticipate peak congestion times.
 
----
 
-## 💼 Use Case
+## Use Case
 
 This project can be used to:
 
@@ -51,17 +44,15 @@ This project can be used to:
 - Reveal the effects of weather, time, and holidays on congestion.
 - Support smarter decisions in urban mobility, logistics, and public planning.
 
----
 
-## 🌆 Why I-94?
+## Why I-94?
 
 - **Strategic Connectivity**: Links major Midwestern cities like Minneapolis, Milwaukee, and Chicago.
 - **Economic Impact**: Facilitates high-volume freight movement.
 - **Congestion Hotspot**: The Minneapolis–St. Paul segment is notorious for westbound traffic congestion.
 
----
 
-## 🗃️ Dataset Overview
+## Dataset Overview
 
 - **Source**: [Metro Interstate Traffic Volume dataset](https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume) by John Hogue (UCI ML Repository).
 - **Timeframe**: 2012–2018
@@ -71,9 +62,8 @@ This project can be used to:
   - Weather (temperature, precipitation, weather type)
   - Holiday indicator
 
----
 
-## 📊 Key Insights
+## Key Insights
 
 ### ⏰ Time-Based Indicators
 
@@ -95,9 +85,8 @@ This project can be used to:
 - **Memorial Day** and **Independence Day** show elevated traffic, but with more variability.
 - **Thanksgiving** and **Christmas** see relatively **lower volumes**, possibly due to early travel or fewer commuters.
 
----
 
-## ✅ Conclusion
+## Conclusion
 
 This analysis highlights key indicators of high traffic on westbound I-94:
 
@@ -107,9 +96,8 @@ This analysis highlights key indicators of high traffic on westbound I-94:
 
 These insights provide a data-driven foundation for improving traffic flow, enhancing infrastructure planning, and supporting daily commute decisions.
 
----
 
-## 🔭 Future Directions
+## Future Directions
 
 To build on this work, future analysis could explore:
 
@@ -117,10 +105,9 @@ To build on this work, future analysis could explore:
 - **Accident reports and roadwork data** to refine traffic estimations.
 - **Vehicle type segmentation** for more granular insights.
 - **Geospatial analysis** to detect location-specific congestion hotspots.
+  
 
----
-
-## 🚀 How to Run
+## How to Run
 
 To explore the project locally:
 
