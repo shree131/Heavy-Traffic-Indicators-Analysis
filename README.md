@@ -11,9 +11,9 @@ This project analyzes hourly traffic data collected between 2012 and 2018 along 
 5. [Why I-94?](#why-i-94)
 6. [Dataset Overview](#dataset-overview)
 7. [Key Insights](#key-insights)
-    - [Time-Based Indicators](#time-based-indicators)
-    - [Weather Indicators](#weather-indicators)
-    - [Holiday Patterns](#holiday-patterns)
+    - [Time-Based Indicators](#key-insights)
+    - [Weather Indicators](#key-insights)
+    - [Holiday Patterns](#key-insights)
 8. [Conclusion](#conclusion)
 9. [Future Directions](#future-directions)
 10. [How to Run](#how-to-run)
@@ -72,6 +72,8 @@ This project can be used to:
 - **Fridays** show particularly high traffic volume.
 - **Weekend traffic** is more evenly distributed, peaking around midday.
 - **Seasonal patterns**: Highest traffic occurs from March to October.
+  
+  <img src='images/temporal_traffic_analysis.png' alt='Temporal Traffic Analysis' width='65%'>
 
 ### 🌧️ Weather Indicators
 
@@ -85,6 +87,7 @@ This project can be used to:
 - **Memorial Day** and **Independence Day** show elevated traffic, but with more variability.
 - **Thanksgiving** and **Christmas** see relatively **lower volumes**, possibly due to early travel or fewer commuters.
 
+<img src='images/weather_and_holiday_traffic_patterns.png' alt='Weather and Holiday Traffic Pattern' width='65%'>
 
 ## Conclusion
 
@@ -107,11 +110,11 @@ My goal for this project is to take it a step further by applying **Linear Regre
 
 ## How to Run
 
-To explore the project locally:
+To review the project locally:
 
 1. **Clone the repository**:
 
    ```
-   git clone https://github.com/shree131/Heavy-Traffic-Indicators-Analysis.git
-   cd Heavy-Traffic-Indicators-Analysis
+   git clone https://github.com/shree131/high-traffic-indicators_interstate_94.git
+   cd high-traffic-indicators_interstate_94
    ```
