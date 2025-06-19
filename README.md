@@ -118,3 +118,6 @@ To review the project locally:
    git clone https://github.com/shree131/high-traffic-indicators_interstate_94.git
    cd high-traffic-indicators_interstate_94
    ```
+
+---
+*© 2024 All rights are reserved.*
