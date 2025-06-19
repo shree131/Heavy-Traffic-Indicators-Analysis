@@ -65,7 +65,7 @@ This project can be used to:
 
 ## Key Insights
 
-### ⏰ Time-Based Indicators
+### 🕑 Time-Based Indicators
 
 - **Daytime traffic** is significantly higher than nighttime.
 - **Peak hours**: Morning (6 AM) and evening (5 PM), especially on weekdays.
@@ -99,12 +99,10 @@ These insights provide a data-driven foundation for improving traffic flow, enha
 
 ## Future Directions
 
-To build on this work, future analysis could explore:
+My goal for this project is to take it a step further by applying **Linear Regression** to model and predict traffic volume. To build on this work, future analyses could explore:
 
-- **Real-time data integration** for live predictions.
-- **Accident reports and roadwork data** to refine traffic estimations.
-- **Vehicle type segmentation** for more granular insights.
-- **Geospatial analysis** to detect location-specific congestion hotspots.
+* **Real-time data integration** for live traffic predictions
+* Incorporating **accident reports and roadwork data** to improve the accuracy of traffic volume estimates
   
 
 ## How to Run
